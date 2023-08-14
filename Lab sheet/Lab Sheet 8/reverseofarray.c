@@ -1,5 +1,5 @@
 /*Write a program that calls reverse_array () to reverse the array and 
-return array and display the elements of reversed array using Pointer.*/
+return array and display the elements of reversed array using Pointer..*/
 
 #include <stdio.h>
 #include<stdlib.h>
